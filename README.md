@@ -36,7 +36,7 @@ $ npm install
 $ npm start
 # prod build, will output the production application in `dist`
 # the produced code can be deployed (rsynced) to a remote server
-$ npm run build
+$ ng build --env=prod
 ```
 
 ### Code scaffolding
